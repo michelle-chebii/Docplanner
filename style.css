@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    width: 300px;
+    margin-left: 180px;
+    margin-right: 420px;
+}
+.headerdiv {
+    display: flex;
+    background-color: whitesmoke;
+    margin-top: 10px;
+    height: 40px;
+    align-items: center;
+}
+
+nav * {
+     display: inline;
+}
+.headerdiv a {
+    text-decoration: none;
+    color: #ABABAB;
+}
+.navlist {
+    margin: 15px;
+  }
+.logo2 {
+    margin-top: 45px;
+    margin-left: 650px;
+}
+.heading {
+    margin-left: 300px;
+    margin-top: 20px;
+    font-size: 2.125rem;
+    color: #00b39b;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 1;
+    letter-spacing: -.3px;
+}
